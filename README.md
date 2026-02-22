@@ -113,8 +113,8 @@ With Auth:
 ```json
 {
   "id": "ULID123",
-  "slug": "kalender-dudukan-kayu-custom-5-pcs",
-  "name": "Kalender Dudukan Kayu Custom 5pcs",
+  "slug": "?????",
+  "name": "?????",
   "sku": "BEN-KDKC-1",
   "price": 225000,
   "stockQuantity": 10,
@@ -131,7 +131,7 @@ Request Body:
 
 ```json
 {
-  "name": "FLYER A5 PAMFLET SEED PAPER 10 pcs",
+  "name": "??? pcs",
   "price": 15000,
   "sku": "AZ-TIGER-1",
   "stockQuantity": 10,
@@ -145,8 +145,8 @@ Response Body:
 ```json
 {
   "id": "ULID234",
-  "slug": "flyer-a5-pamflet-seed-paper-10-pcs",
-  "name": "FLYER A5 PAMFLET SEED PAPER 10 pcs",
+  "slug": "???",
+  "name": "???",
   "price": 15000,
   "sku": "BEN-FPSP-1",
   "stockQuantity": 10,
